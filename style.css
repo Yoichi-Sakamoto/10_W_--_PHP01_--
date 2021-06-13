@@ -1,0 +1,15 @@
+.result{
+    font-size: 30px;
+}
+
+td{
+    border: solid 1px;
+    padding: 8px;
+    width: 180px;
+}
+
+table{
+    background-color: lightgoldenrodyellow;
+    border-collapse: collapse;
+}
+
